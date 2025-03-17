@@ -20,7 +20,7 @@ automation-project/
 │── Dockerfile           # Docker setup
 │── package.json         # Dependencies
 │── README.md            # Project documentation
-│── .gitignore           # Ignore unnecessary files
+│── .gitignore           # Ignore files that should not be commited
 ```
 
 ---
